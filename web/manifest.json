@@ -1,11 +1,11 @@
 {
-    "name": "finmitra",
-    "short_name": "finmitra",
+    "name": "FinMitra",
+    "short_name": "FinMitra",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#009688",
+    "theme_color": "#009688",
+    "description": "FinMitra - Your AI based Smart Financial Companion",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

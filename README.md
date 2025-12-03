@@ -1,16 +1,35 @@
-# finmitra
+# FinMitra
 
-A new Flutter project.
+**Your AI based Smart Financial Companion**
+
+FinMitra is a Flutter-based mobile application designed to help you manage your finances intelligently with the power of AI.
+
+## Features
+
+- 🤖 AI-powered financial insights
+- 💰 Smart expense tracking
+- 📊 Financial analytics and reports
+- 🎯 Personalized financial goals
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK (3.0 or higher)
+- Dart SDK
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
+2. Run `flutter pub get` to install dependencies
+3. Run `flutter run` to start the app
+
+## Platforms
+
+FinMitra supports:
+- Android
+- iOS
+- Web
+- macOS
+- Windows
+- Linux
